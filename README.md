@@ -3,25 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="./programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taras-p-kob&label=Profile%20views&color=0e75b6&style=flat" alt="taras-p-kob" /> </p>
-
-- 🔭 I’m currently working on **my team project**
-
-- 🌱 I’m currently learning **Frontend**
-
-- 👯 I’m looking to collaborate **on creating new sites**
-
-- 🤝 I’m looking for help with **JavaScript**
-
-- 👨‍💻 All of my projects are available at (This GitHub)
-
-- 💬 Ask me about **C++**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roman-zvirb&label=Profile%20views&color=0e75b6&style=flat" alt="roman-zvir" /> </p>
 
 - 📫 How to reach me **roman.zvir.pp.2023@lpnu.ua**
-
-- ⚡ Fun fact **I'm Russophobic, my favorite programming language is C++**
-
-- 💲 My PayPal **zwirr151@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
